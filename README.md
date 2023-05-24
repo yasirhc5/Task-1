@@ -82,7 +82,7 @@ It will show the images with latest at top.
 # Step-5 
 
 # Command To Exec
-docker push mrbasit01/myapp:latest
+docker push mryasirhc5/myapp:latest
 
 # Output
 The push refers to repository [docker.io/mrbasit01/myapp]
